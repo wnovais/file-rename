@@ -1,0 +1,7 @@
+C:\Users\willi\source\repos\FileRenameApp\FileRenameApp\bin\Debug\FileRenameApp.exe.config
+C:\Users\willi\source\repos\FileRenameApp\FileRenameApp\bin\Debug\FileRenameApp.exe
+C:\Users\willi\source\repos\FileRenameApp\FileRenameApp\bin\Debug\FileRenameApp.pdb
+C:\Users\willi\source\repos\FileRenameApp\FileRenameApp\obj\Debug\FileRenameApp.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\FileRenameApp\FileRenameApp\obj\Debug\FileRenameApp.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\FileRenameApp\FileRenameApp\obj\Debug\FileRenameApp.exe
+C:\Users\willi\source\repos\FileRenameApp\FileRenameApp\obj\Debug\FileRenameApp.pdb
